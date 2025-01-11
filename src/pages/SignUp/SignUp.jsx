@@ -38,7 +38,7 @@ const SignUp = () => {
                 icon: "success",
                 title: "User created successfully.",
                 showConfirmButton: false,
-                timer: 1500,
+                timer: 900,
               });
               navigate("/");
             }
